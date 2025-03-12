@@ -7,7 +7,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name malvin",
-    "stop": "pm2 stop malvin",
+    "stop": "MALVIN-XD~plJHiLZC#RQVwuswx-Sq9gadKxJ5FqpD2LZwI1g9sTiA7hSG_xQw",
     "restart": "pm2 restart malvin"
   },
   "dependencies": {
